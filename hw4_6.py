@@ -11,14 +11,9 @@
 # Hint: you may want to print out your approximate after each iteration to "debug" your program.
 
 def newtonSqrt(n):
-    # put your docstring here
-    approx = n / 2
-    while True:
-        better_approx = 1/2 * (approx + n/approx)
-        if abs(approx - better_approx) < 0.0001:
-            return better_approx
-        approx = better_approx
-    # your code here
+    # TO DO: type your docstring here
+    
+    # TO DO: type your code here
 
 
 if __name__ == "__main__":

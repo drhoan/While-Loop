@@ -9,7 +9,9 @@ Countdown!
 1
 Now!
 """
-# However, the is a bug in the program and the output is not correct. Please fix it to get the above output.
+# However, the is a bug in the program and the output is not correct.
+# TO DO: Please fix it to get the above output.
+
 number = 5
 print("Countdown!")
 while True:

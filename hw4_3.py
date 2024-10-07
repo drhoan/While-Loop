@@ -17,12 +17,4 @@ Please type in a number: 0
 Exiting
 """
 
-while True:
-    num = int(input("Please type in a number: "))
-    if num == 0:
-        print("Exiting")
-        break
-    elif num < 0:
-        print("Invalid number")
-    else:
-        print(num ** 0.5)
+# TO DO: Type your code here

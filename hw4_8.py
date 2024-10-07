@@ -13,16 +13,5 @@ Correct! It took you 4 attempts
 """
 # If the user gets it right on the first try, the program should print out something a bit different:
 """Correct! It only took you one single attempt!"""
-PIN = 4321
-count = 0
-while True:
-    a = int(input("PIN: "))
-    count += 1
-    if a == PIN:
-        if count == 1:
-            print("Correct! It only took you one single attempt!")
-        else:
-            print("Correct! It took you", count, "attempts")
-        break
-    else:
-        print("Wrong")
+    
+# TO DO: type your code here

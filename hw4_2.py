@@ -13,9 +13,4 @@ Shall we continue? no
 okay then
 """
 
-while True:
-    print("hi")
-    a = input("Shall we continue? ")
-    if a == "no":
-        break
-print("okay then")
+# TO DO: Type your code here

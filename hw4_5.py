@@ -14,11 +14,4 @@ Repeat password: sekred
 User account created!
 """
 
-pwd = input("Password: ")
-while True:
-    pass2 = input("Repeat password: ")
-    if pwd == pass2:
-        print("User account created!")
-        break
-    else:
-        print("They do not match!")
+# TO DO: Type your code here

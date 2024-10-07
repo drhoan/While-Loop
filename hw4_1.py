@@ -10,9 +10,4 @@ Enter an integer number: 0
 Finish
 """
 
-while True:
-    a = int(input("Enter an integer number: "))
-    if a == 0:
-        break
-
-print("Finish")
+# TO DO: Type your code here
