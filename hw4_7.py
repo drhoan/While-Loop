@@ -7,8 +7,8 @@
 def is_prime(n):
     # TO DO: type your docstring here
     
-    # TO DO: type your code here
-
+    # TO DO: replace pass by your code
+    pass
 
 if __name__ == "__main__":
     print(is_prime(0))  # should print False

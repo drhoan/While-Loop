@@ -12,9 +12,9 @@
 
 def newtonSqrt(n):
     # TO DO: type your docstring here
-    
-    # TO DO: type your code here
 
+    # TO DO: replace pass by your code
+    pass
 
 if __name__ == "__main__":
     print(newtonSqrt(9))  # should print 3.0000000000393214 or similar
